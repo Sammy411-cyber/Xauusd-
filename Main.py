@@ -6,7 +6,7 @@ BOT_TOKEN = "8013997009"
 CHAT_ID = "8327329122"
 
 # GPT and News API setup
-GPT_API_KEY = "Gpt api key=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"
+GPT_API_KEY = "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"
 NEWS_API_KEY = "be5f4b15732b4495bd15140e8533e2fb"
 
 def send_telegram_message(text):
