@@ -1,7 +1,7 @@
 services:
-  - type: worker
+  - type: web
     name: xauusd-bot
     env: python
     plan: free
     buildCommand: "pip install -r requirements.txt"
-    startCommand: "python main.py"
+    startCommand: "python Main.py"
