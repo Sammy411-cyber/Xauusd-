@@ -1,2 +1,2 @@
-# Xauusd-
+# Xauusd-bot
 Gold signal 
