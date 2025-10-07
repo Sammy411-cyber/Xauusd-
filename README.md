@@ -1,0 +1,2 @@
+# Xauusd-
+Gold signal 
